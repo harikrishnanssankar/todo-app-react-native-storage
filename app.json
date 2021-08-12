@@ -1,0 +1,13 @@
+{
+  "expo": {
+   "name": "todoapp",
+   "icon": "./assets/icon.png",
+   "version": "1.0.0",
+   "slug": "todoapp",
+   "orientation": "portrait",
+   "android": {
+     "package": "com.yourcompany.yourappname",
+     "versionCode": 1
+   }
+  }
+}
